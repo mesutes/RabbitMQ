@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\RabbitMQ\\RabbitMQMail\\RabbitMQMail.csproj",
+      "projectUniqueName": "E:\\Repos\\RabbitMQ\\RabbitMQMail.csproj",
       "projectName": "RabbitMQMail",
-      "projectPath": "E:\\Repos\\RabbitMQ\\RabbitMQMail\\RabbitMQMail.csproj",
+      "projectPath": "E:\\Repos\\RabbitMQ\\RabbitMQMail.csproj",
       "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\RabbitMQ\\RabbitMQMail\\obj\\",
+      "outputPath": "E:\\Repos\\RabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",

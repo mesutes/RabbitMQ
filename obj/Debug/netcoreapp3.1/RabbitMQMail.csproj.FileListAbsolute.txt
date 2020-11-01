@@ -1,0 +1,12 @@
+E:\Repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQMail.exe
+E:\Repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQMail.deps.json
+E:\Repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQMail.runtimeconfig.json
+E:\Repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQMail.runtimeconfig.dev.json
+E:\Repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQMail.dll
+E:\Repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQMail.pdb
+E:\Repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQMail.AssemblyInfoInputs.cache
+E:\Repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQMail.AssemblyInfo.cs
+E:\Repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQMail.csproj.CoreCompileInputs.cache
+E:\Repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQMail.dll
+E:\Repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQMail.pdb
+E:\Repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQMail.genruntimeconfig.cache

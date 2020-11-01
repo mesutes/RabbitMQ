@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9zxBACGmypypT+SIbShEI3a8ZRnVc5dpDW/Eu8HjARQRfP5M3M4blBXl08pDZUBJ0pLN1/WY/KXJGKai4fDfsw==",
+  "dgSpecHash": "xAZ8DdE3Kb36U7++bK2z4a7g6Fg2R8oe3GFS+fyNTTF5uFkBYQ5jMpfJ89fqmj2uAGgmE7VnOb1nJMzHGG0otQ==",
   "success": true,
-  "projectFilePath": "E:\\Repos\\RabbitMQ\\RabbitMQMail\\RabbitMQMail.csproj",
+  "projectFilePath": "E:\\Repos\\RabbitMQ\\RabbitMQMail.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
